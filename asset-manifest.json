@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Automedon/Tetris/static/css/main.d92a2cc6.chunk.css",
+    "main.js": "/Automedon/Tetris/static/js/main.ba6fc9bf.chunk.js",
+    "main.js.map": "/Automedon/Tetris/static/js/main.ba6fc9bf.chunk.js.map",
+    "runtime~main.js": "/Automedon/Tetris/static/js/runtime~main.6bcd4580.js",
+    "runtime~main.js.map": "/Automedon/Tetris/static/js/runtime~main.6bcd4580.js.map",
+    "static/js/2.5666eb1f.chunk.js": "/Automedon/Tetris/static/js/2.5666eb1f.chunk.js",
+    "static/js/2.5666eb1f.chunk.js.map": "/Automedon/Tetris/static/js/2.5666eb1f.chunk.js.map",
+    "index.html": "/Automedon/Tetris/index.html",
+    "precache-manifest.c0c1b9703f592a394b99c39cfb2fc647.js": "/Automedon/Tetris/precache-manifest.c0c1b9703f592a394b99c39cfb2fc647.js",
+    "service-worker.js": "/Automedon/Tetris/service-worker.js",
+    "static/css/main.d92a2cc6.chunk.css.map": "/Automedon/Tetris/static/css/main.d92a2cc6.chunk.css.map",
+    "static/media/index.css": "/Automedon/Tetris/static/media/bg.2810fe6b.png"
+  }
+}
